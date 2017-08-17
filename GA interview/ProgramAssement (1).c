@@ -20,6 +20,14 @@ typedef struct{
 void init()
 {
 	//TODO
+	float latitude  = 1;
+	float longitude = 2;
+	float position  = 3;
+	float velocity;
+	float roll;
+	float pitch;
+	float power;
+	float yaw;
 }
 
 /*
